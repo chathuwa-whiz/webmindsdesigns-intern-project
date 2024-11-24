@@ -12,7 +12,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="fixed bottom-0 w-full bg-transparent text-white py-4 px-4">
+    <footer className="lg:fixed bottom-0 w-full bg-transparent text-white py-4 px-4 backdrop-blur-xl">
       <div className="container mx-auto">
         
         {/* Right-aligned List */}
